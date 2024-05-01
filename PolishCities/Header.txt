@@ -1,0 +1,5 @@
+name = polish_cities;
+mod_version = 1.1;
+game_version = 1.0.45;
+dont_load_with_newer_version = false;
+weight = 1000;
